@@ -1,3 +1,7 @@
+#video
+*.mp4
+*.mov
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
